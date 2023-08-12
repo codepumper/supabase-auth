@@ -1,2 +1,2 @@
 # supabase-auth
-Athentication modulue to interact with Supabase backend
+Authentication module to interact with Supabase backend
