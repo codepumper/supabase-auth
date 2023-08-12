@@ -1,4 +1,5 @@
 import SupabaseAuth from "../src/SupabaseAuth";
+require("dotenv").config();
 
 describe("SupabaseAuth", () => {
   const supabaseUrl = process.env.SUPABASE_URL;
