@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "preversion": "npm run test",
-    "postversion": "git add -all && git push && git push --tags && npm publish"
+    "postversion": "git add --all && git push && git push --tags && npm publish"
   },
   "keywords": [
     "authentication",
