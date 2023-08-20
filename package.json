@@ -2,18 +2,14 @@
   "name": "@codepumper/supabase-auth",
   "version": "0.0.8",
   "description": "Authentication module to interact with Supabase",
-  "main": "index.js",
+  "main": "lib/SupabaseAuth.js",
   "scripts": {
     "test": "jest",
     "preversion": "npm run test",
     "postversion": "git add --all && git push && git push --tags && npm publish"
   },
   "keywords": [
-    "authentication",
-    "login",
-    "signin",
-    "signup",
-    "registration"
+    "authentication"
   ],
   "author": "",
   "license": "ISC",
