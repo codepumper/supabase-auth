@@ -1,6 +1,6 @@
 {
   "name": "@codepumper/supabase-auth",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Authentication module to interact with Supabase",
   "main": "lib/SupabaseAuth.js",
   "scripts": {
